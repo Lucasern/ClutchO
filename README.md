@@ -1,3 +1,2 @@
 # ClutchO
-ClutchO is a lightweight, real-time CPU usage overlay for Windows.
-It displays your system performance discreetly in the corner of your screen and runs silently in the background with a clean system tray icon. Designed for gamers, streamers, and power users who want live stats without clutter.
+ClutchO is a lightweight CPU monitor for Windows that shows live performance stats in the corner of your screen. It stays out of the way, runs quietly in the background, and gives you a quick look at your system load whenever you need it. perfect for gaming or streaming sessions.
